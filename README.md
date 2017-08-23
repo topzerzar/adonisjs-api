@@ -38,5 +38,6 @@ $ npm run serve:dev
 ## Start Project 
 
 ```
-npm run serve:dev
+$ cd project && yarn serve:dev
+$ npm run serve:dev
 ```
