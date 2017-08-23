@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AdonisJs Application
 
 This repo is the pre-configured project structure to be used for creating ambitious web servers using AdonisJs.
@@ -33,3 +34,48 @@ AdonisJs is a beautiful framework with pre-configured answers to all of your que
 
 This time a :boy: will write his ambitious application and will set the world on :fire:. Don't hesitate to work on your ideas and we promise to improve the framework every :sunny: and :first_quarter_moon_with_face: and YESSSS do not forget to star us on [:octocat:](https://github.com/adonisjs/adonis-framework)
 
+=======
+# AdonisJs
+
+## Installing Adonis-CLI
+
+```
+npm i -g adonis-cli
+```
+
+## Creating New Project
+
+```
+adonis new [project]
+```
+
+## Result Create Projecct
+
+```
+    _       _             _         _     
+   / \   __| | ___  _ __ (_)___    | |___ 
+  / _ \ / _` |/ _ \| '_ \| / __|_  | / __|
+ / ___ \ (_| | (_) | | | | \__ \ |_| \__ \
+/_/   \_\__,_|\___/|_| |_|_|___/\___/|___/
+
+✔ Your current Node.js & npm version match the AdonisJs requirements!
+⠧ Cloning master branch of adonisjs/adonis-app blueprint
+clone: Repository cloned
+clean: Repository cleaned
+copy: Default environment variables copied
+
+✔ Your application is ready!
+
+ℹ Follow below instructions to get started
+$ cd adonis-api
+$ npm run serve:dev
+
+```
+
+## Start Project 
+
+```
+$ cd project && yarn serve:dev
+$ npm run serve:dev
+```
+>>>>>>> 939cf4eb3380a3fa7ed343523c15040e11ca31a7
